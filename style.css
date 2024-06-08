@@ -190,6 +190,10 @@ nav {
   grid-auto-rows: 200px;
 }
 
+#special{
+    padding-top:2rem;
+}
+
 .banner__card {
   color: cornsilk;
   padding: 1rem;
