@@ -13,6 +13,7 @@
   
 .heading{
     font-size: xx-large;
+    text-wrap: nowrap;
 }
 * {
   padding: 0;
@@ -21,7 +22,7 @@
   background:#ffc135f7;
 }
 .nav__links{
-    margin-top: -60px;
+    margin-top: -10px;
 }
 .header__image{
     margin-top: -45px;
