@@ -229,6 +229,25 @@ nav {
   color: var(--white);
   background: none;
 }
+.about{
+  margin: 50px 20px;
+}
+.about h1{
+  text-align: center;
+  font-weight: bolder;
+  font-size: 2.5rem;
+}
+.about h2{
+  margin-left: 150px;
+  margin-top: 40px;
+}
+
+.about p{
+  margin-top: 20px;
+  margin-left: 150px;
+  font-weight:700;
+  font-size: 1.5rem;
+}
 
 .order__container h3 {
   max-width: fit-content;
