@@ -174,7 +174,7 @@ nav {
   font-size: 4.5rem;
   font-weight: 500;
   font-family: var(--header-font-1);
-  color: var(--primary-color);
+  color: purple;
   line-height: 3.5rem;
   text-align: center;
   text-shadow: 2px 2px var(--white);
