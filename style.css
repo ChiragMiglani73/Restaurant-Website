@@ -82,6 +82,9 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
+.heading h1{
+    color:purple;
+}
 
 nav {
   position: fixed;
